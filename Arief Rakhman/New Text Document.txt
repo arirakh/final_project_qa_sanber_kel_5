@@ -1,1 +1,32 @@
 Arief Rakhman
+=============
+
+PIM
+---
+Configuration
+	- Termination Reasons
+Employee List
+	- Employee List
+Add Employee
+	- Add Employee
+Report 
+	- Report
+	
+Leave
+-----
+Apply
+	- Apply
+My Leave
+	- My Leave
+Entitlements
+	- Add Entitlements
+	- Employee Entitlements
+	- My Entitlements
+Report
+	- Leave Entitlements and  Usage Report
+	- My Leave Entitlements and  Usage Report
+Timesheets
+	- My Timesheets
+	- Employee Timesheets
+Attendance
+	- My Records
